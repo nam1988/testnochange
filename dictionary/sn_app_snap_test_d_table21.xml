@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="table21" max_length="40" name="sn_app_snap_test_d_table21" type="collection">
+        <element label="Col21" max_length="40" name="col21" type="boolean"/>
+    </element>
+</database>

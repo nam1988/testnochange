@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="sn_app_snap_test_d.user" name="sn_app_snap_test_d.user">6778ac6ab7a2330012e53978ee11a918</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>maint</sys_created_by>
+        <sys_created_on>2019-07-12 18:46:00</sys_created_on>
+        <sys_id>6378ac6ab7a2330012e53978ee11a91b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>6778ac6ab7a2330012e53978ee11a918</sys_name>
+        <sys_package display_value="app-snap-test-dep" source="sn_app_snap_test_d">4e7864eab7a2330012e53978ee11a968</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="app-snap-test-dep">4e7864eab7a2330012e53978ee11a968</sys_scope>
+        <sys_update_name>sys_embedded_help_role_6378ac6ab7a2330012e53978ee11a91b</sys_update_name>
+        <sys_updated_by>maint</sys_updated_by>
+        <sys_updated_on>2019-07-12 18:46:00</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
